@@ -123,7 +123,7 @@
 
 <script>
   // PEGA AQUÍ LA URL DE TU WEBHOOK DE MAKE (entre las comillas)
-  const WEBHOOK_URL = "PEGA_AQUI_TU_URL_DE_MAKE";
+  const WEBHOOK_URL = "https://hook.us2.make.com/osrxk4d534fzrccw7qshc4mdumgw0px8";
 
   const CAMPOS = ["comida","ropa","apps","criterio","origen","edad"];
   const form = document.getElementById("encuesta");
